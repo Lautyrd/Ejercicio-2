@@ -1,0 +1,8 @@
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csprojResolveAssemblyReference.cache
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio_2.MainForm.resources
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.GenerateResource.Cache
